@@ -7,5 +7,5 @@ banner:
   button:
     enable: true
     label: "Comienza Ahora"
-    link: "/blog"
+    link: "blog"
 ---
