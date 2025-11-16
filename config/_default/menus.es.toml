@@ -1,0 +1,48 @@
+############# Navegación en Español ##############
+
+# main menu
+[[main]]
+name = "Inicio"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Acerca de"
+url = "/about"
+weight = 2
+
+[[main]]
+name = "Autores"
+url = "/authors"
+weight = 3
+
+[[main]]
+weight = 4
+name = "Páginas"
+
+[[main]]
+parent = "Páginas"
+name = "Blog"
+url = "/blog"
+
+[[main]]
+parent = "Páginas"
+name = "Categorías"
+url = "/categories"
+
+
+# footer menu
+[[footer]]
+name = "Acerca de"
+url = "/about"
+weight = 1
+
+[[footer]]
+name = "Autores"
+url = "/authors"
+weight = 2
+
+[[footer]]
+name = "Política de Privacidad"
+url = "/privacy-policy"
+weight = 3
