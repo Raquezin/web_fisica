@@ -1,20 +1,11 @@
 ---
 title: José Luis Mesa
-email: joseluis.mesa@email.com
 image: "/images/avatar.png"
 description: Especialista en electromagnetismo y óptica
 social:
-  - name: github
-    icon: fa-brands fa-github
-    link: https://github.com
-
-  - name: twitter
-    icon: fa-brands fa-twitter
-    link: https://twitter.com
-
   - name: linkedin
     icon: fa-brands fa-linkedin
-    link: https://linkedin.com
+    link: https://www.linkedin.com/in/jose-luis-mesa/
 ---
 
-José Luis Mesa es un apasionado de la física, con expertise en electromagnetismo y óptica. Ha contribuido a la formación de competidores en olimpiadas, enfocándose en problemas teóricos y experimentales.
+Fundador de los seminarios. Medalla de Plata en la XXXIII Olimpiada Española de Física. Especializado en Óptica, Electromagnetismo y Mecánica Teórica, destaca por su enfoque estructurado y riguroso de la física. Estudia el doble grado en Física y Matemáticas.

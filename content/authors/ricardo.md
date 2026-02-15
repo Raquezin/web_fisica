@@ -1,20 +1,11 @@
 ---
 title: Ricardo
-email: ricardo@email.com
 image: "/images/avatar.png"
 description: Colaborador en física experimental
 social:
-  - name: github
-    icon: fa-brands fa-github
-    link: https://github.com
-
-  - name: twitter
-    icon: fa-brands fa-twitter
-    link: https://twitter.com
-
   - name: linkedin
     icon: fa-brands fa-linkedin
     link: https://linkedin.com
 ---
 
-Ricardo es un colaborador apasionado por la física experimental. Contribuye con ideas innovadoras para preparar experimentos en las olimpiadas de física.
+Estudiante del doble grado de Matemáticas y Física, cuenta con experiencia en preparación olímpica, con especial interés en Electromagnetismo, Mecánica y Termodinámica. Destaca por su capacidad para conectar distintos bloques de la física y transmitir una comprensión global de los fenómenos físicos.
